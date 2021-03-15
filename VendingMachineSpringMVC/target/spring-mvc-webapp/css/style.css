@@ -1,0 +1,75 @@
+h1 {
+    text-align: center;
+}
+body {
+  background-color: #a4d7f4;
+  /*background: radial-gradient(#e66465, #9198e5);*/
+}
+
+
+.vending-column {
+
+    float: left;
+    width: 70%;
+}
+.menu-column {
+    float: left;
+    width: 30%;
+}
+
+.row {
+  max-height: 200px;
+}
+
+
+#vending-display {
+    /*background-color: #fff;*/
+
+
+}
+
+
+.box {
+  border-style: 1px solid #ccc;
+  border-radius: 10px;
+  border-color: black;
+  border-width: 1px;
+  height: 210px;
+  width: 210px;
+  padding: 15px 15px 15px 15px;
+  margin: 10px;
+  text-align: center;
+  left: 5em;
+  top: 15px;
+  background-color: white;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.btn {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+
+.message-box {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+hr {
+    color:#000000;
+    background-color:#000000;
+    border-top-color: #000000
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    width: 100%;
+
+
+}
+
+
