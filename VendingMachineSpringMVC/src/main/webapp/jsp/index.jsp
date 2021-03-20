@@ -64,7 +64,7 @@
         </div><!-- END VENDING MENU CONTAINER DIV -->
 
         <footer class="col-md-12">
-            <p style=" margin-bottom: 50px;">Created by Tiffini Johnson. Updated March 2021.</p>
+            <p style=" margin-bottom: 50px; text-align: center;">&copy; 2021 Tiffini Johnson. Updated March 2021.</p>
         </footer>
     </body>
 
